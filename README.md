@@ -1,4 +1,6 @@
-# AngularSingleFileComponent
+# Single File Component in Angular
+
+An example code for creating a single file component in Angular with syntax highlighting and intellisense. Please refer to [this article](https://muhimasri.com/blogs/how-to-create-a-single-file-component-in-angular/) for a detailed explanation.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
